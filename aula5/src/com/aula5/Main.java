@@ -1,10 +1,26 @@
 package com.aula5;
 
+import com.teste.Honda;
+
 public class Main {
 
 
     public static void main(String[] args) {
-        int n;
+
+        //Relacionamento de Associação
+
+        Honda hondaObject = new Honda();
+        hondaObject.setCodigo(789);
+        hondaObject.setNome("Honda");
+
+        Carro carroObject = new Carro(1005);
+
+        carroObject.setMarca(hondaObject.getNome());
+
+        System.out.println(carroObject.toString());
+
+
+        /*int n;
         Carro carroObject;
 
         n = 10;

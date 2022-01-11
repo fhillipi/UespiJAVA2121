@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524a2ef2-9827-4bd9-bcf3-8eab302bcef3" name="Changes" comment="" />
+    <list default="true" id="a56e6ca5-e8b6-4fe7-856f-95d3284177a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="21kSsYhIY2pPcaxftZiAu164xq4" />
+  <component name="ProjectId" id="23FejAmNwbJQIHBzMOfKxU2Ri8s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -87,35 +87,112 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.aula5.Main" />
-      <module name="aula5" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+  <component name="RunManager" selected="Application.Exemplo7">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Example3" />
+      <module name="aula8a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exemplo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Exemplo4" />
+      <module name="aula8a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Exemplo6" />
+      <module name="aula8a" />
+      <option name="PROGRAM_PARAMETERS" value="uespi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Exemplo7" />
+      <module name="aula8a" />
+      <option name="PROGRAM_PARAMETERS" value="uespi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Main" />
+      <module name="aula8a" />
+      <option name="PROGRAM_PARAMETERS" value="uespi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.Main" />
+      <module name="aula8a" />
+      <option name="PROGRAM_PARAMETERS" value="uespi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Example3" />
+      <item itemvalue="Application.Exemplo4" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Exemplo6" />
+      <item itemvalue="Application.Exemplo7" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemplo7" />
+        <item itemvalue="Application.Exemplo6" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exemplo4" />
+        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="524a2ef2-9827-4bd9-bcf3-8eab302bcef3" name="Changes" comment="" />
-      <created>1638483803637</created>
+      <changelist id="a56e6ca5-e8b6-4fe7-856f-95d3284177a5" name="Changes" comment="" />
+      <created>1641334396523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638483803637</updated>
-      <workItem from="1638483804897" duration="7661000" />
-      <workItem from="1638902464398" duration="648000" />
+      <updated>1641334396523</updated>
+      <workItem from="1641334397712" duration="5943000" />
+      <workItem from="1641505057317" duration="6888000" />
+      <workItem from="1641936603643" duration="5305000" />
     </task>
     <servers />
   </component>
