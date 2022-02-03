@@ -6,9 +6,19 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        TesteFrame testeFrame = new TesteFrame();
-        testeFrame.setSize(720,960);
-        testeFrame.setVisible(true);
-        testeFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        //TesteFrame testeFrame = new TesteFrame();
+
+        Login login = new Login();
+        login.setSize(720,960);
+        login.setVisible(true);
+        login.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+
+
+/*
+        HashUtils hashmd5 = new HashUtils();
+
+        System.out.println(hashmd5.getHashMd5("123456"));
+        */
+
     }
 }

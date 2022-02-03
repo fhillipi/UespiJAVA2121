@@ -8,11 +8,15 @@ public class TesteFrame extends  JFrame {
     private JLabel label1;
     private JLabel label2;
     private JLabel label3;
+    private static String SENHA;
 
     public TesteFrame(){
         super("Tela Principal");
 
+
         setLayout(new FlowLayout() );
+
+
 
         label1 = new JLabel("Label Aqui");
         label1.setToolTipText("Teste da Label 1");
